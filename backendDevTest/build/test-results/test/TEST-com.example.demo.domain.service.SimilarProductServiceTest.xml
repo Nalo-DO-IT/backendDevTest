@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.domain.service.SimilarProductServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-25T15:53:57" hostname="NUNE-MECC002" time="0.524">
+  <properties/>
+  <testcase name="getByProductIdFailedByEmptyDetails()" classname="com.example.demo.domain.service.SimilarProductServiceTest" time="0.524"/>
+  <system-out><![CDATA[16:53:57.664 [Test worker] ERROR com.example.demo.domain.service.SimilarProductService - Error retrieving detail for productId 1
+com.example.demo.domain.exception.NotFoundException: null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+‚16:53:57.664 [Test worker] ERROR com.example.demo.domain.service.SimilarProductService - Error retrieving detail for productId 1
+;com.example.demo.domain.exception.NotFoundException: null
